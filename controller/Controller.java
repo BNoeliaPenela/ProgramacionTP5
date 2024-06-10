@@ -2,11 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package tp5prog.controller;
+package controller;
 
-import tp5prog.model.Categoria;
-import tp5prog.model.Producto;
-import tp5prog.view.Console;
+import model.Categoria;
+import model.Producto;
+import view.Console;
 import java.util.ArrayList;
 
 public class Controller {

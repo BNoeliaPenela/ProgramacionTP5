@@ -2,10 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package tp5prog.view;
+package view;
 
-import tp5prog.model.Producto;
-import tp5prog.model.Categoria;
+import model.Producto;
+import model.Categoria;
 import java.util.Scanner;
 
 public class Console {
