@@ -322,8 +322,7 @@ public class Controller {
                     Producto prod = (Producto)listProd.get(j); 
             
                     if (prod.getCat().getId() == catIdM){
-                                
-                        
+                                                        
                         prod.setCat(cat);
                 
                         
@@ -392,7 +391,7 @@ public class Controller {
         
                 
         
-        
+        System.out.println("hello world");
         
     }
 }
